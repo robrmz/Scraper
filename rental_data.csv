@@ -1,0 +1,353 @@
+,location,price,bedrooms,bathrooms,garage,area
+0,La Calma,"
+                        $23,500
+                        
+                    ",3,3,2,250 m²
+1,Zapopan,"
+                    $11,500
+                    
+                ",2,2,2,70 m²
+2,Solares Residencial,"
+                    $21,500
+                    
+                ",3,3,2,150 m²
+3,Zapopan,"
+                    $40,000
+                    
+                ",3,4+,2,180 m²
+4,El Bajío,"
+                    $33,000
+                    
+                ",3,3,2,200 m²
+5,Jardines del Sol,"
+                    $23,000
+                    
+                ",3,2,2,500 m²
+6,Los Maestros,"
+                    $17,900
+                    
+                ",2,2,1,300 m²
+7,Zapopan,"
+                    $27,000
+                    
+                ",3,3,2,203 m²
+8,Real Vallarta,"
+                    $14,500
+                    
+                ",2,2,1,80 m²
+9,Solares Residencial,"
+                    $28,000
+                    
+                ",3,3,2,170 m²
+10,Jal.,"
+                    $7,500
+                    
+                ",3,3,2,95 m²
+11,Zapopan,"
+                    $24,500
+                    
+                ",2,2,2,114 m²
+12,Puerta de Hierro,"
+                        $35,000
+                        
+                    ",3,4+,2,220 m²
+13,La Calma,"
+                        $23,500
+                        
+                    ",3,3,2,250 m²
+14,La Calma,"
+                    $23,500
+                    
+                ",3,3,2,300 m²
+15,La Calma,"
+                    $23,500
+                    
+                ",3,3,2,300 m²
+16,Royal Country,"
+                    $28,000
+                    
+                ",2,2,2,131 m²
+17,Nuevo México,"
+                    $21,000
+                    
+                ",3,3,2,160 m²
+18,Solares Residencial,"
+                    $30,000
+                    
+                ",3,4+,2,154 m²
+19,Granja,"
+                    $27,000
+                    
+                ",2,2,2,92 m²
+20,La Haciendita,"
+                    $10,000
+                    
+                ",2,2,2,78 m²
+21,Universitaria,"
+                    $15,300
+                    
+                ",2,1,1,94 m²
+22,Zapopan,"
+                    $18,000
+                    
+                ",2,2,2,100 m²
+23,Zapopan,"
+                    $12,500
+                    
+                ",3,2,2,84 m²
+24,Zapopan,"
+                    $18,000
+                    
+                ",2,2,2,100 m²
+25,Arcos de Guadalupe,"
+                    $25,000
+                    
+                ",3,2,2,121 m²
+26,Puerta de Hierro,"
+                    $26,000
+                    
+                ",2,2,2,96 m²
+27,Zapopan,"
+                    $11,000
+                    
+                ",2,2,2,90 m²
+28,Jardín de San Ignacio,"
+                    $110,000
+                    
+                ",5,4+,4+,1050 m²
+29,Jardines del Tepeyac,"
+                    $18,500
+                    
+                ",2,1,1,78 m²
+30,Zapopan,"
+                    $25,000
+                    
+                ",2,2,2,105 m²
+31,Parque Metropolitano,"
+                    $25,000
+                    
+                ",3,2,2,110 m²
+32,Zapopan,"
+                    $8,500
+                    
+                ",3,2,2,85 m²
+33,Universitaria,"
+                    $15,300
+                    
+                ",2,1,1,94 m²
+34,Jal.,"
+                    $3,800
+                    
+                ",2,1,1,66 m²
+35,Lagos del Country,"
+                    $6,000
+                    
+                ",2,1,1,65 m²
+36,Victoria,"
+                    $29,500
+                    
+                ",4,4+,4+,125 m²
+37,Paseos del Sol,"
+                    $16,800
+                    
+                ",3,3,2,200 m²
+38,Las Cumbres,"
+                        $45,000
+                        
+                    ",3,4+,2,220 m²
+39,Zapopan,"
+                    $8,000
+                    
+                ",2,2,1,55 m²
+40,Zapopan,"
+                    $12,000
+                    
+                ",3,2,2,99 m²
+41,Nuevo México,"
+                    $16,500
+                    
+                ",3,2,2,115 m²
+42,Nuevo México,"
+                    $16,000
+                    
+                ",3,2,2,123 m²
+43,Solares Residencial,"
+                    $30,000
+                    
+                ",3,4+,2,154 m²
+44,Jardines Universidad,"
+                    $22,000
+                    
+                ",1,1,1,70 m²
+45,Colinas de los Virreyes,"
+                    $41,000
+                    
+                ",3,3,2,254 m²
+46,Zapopan,"
+                    $8,800
+                    
+                ",2,1,1,102 m²
+47,Valle Real,"
+                    $90,000
+                    
+                ",3,4+,4+,470 m²
+48,Los Maestros,"
+                    $17,900
+                    
+                ",2,2,1,300 m²
+49,Nuevo México,"
+                    $14,000
+                    
+                ",3,2,2,111 m²
+50,Royal Country,"
+                    $30,000
+                    
+                ",2,3,2,160 m²
+51,Nuevo México,"
+                    $11,500
+                    
+                ",2,2,1,74 m²
+52,Jardines Universidad,"
+                    $23,000
+                    
+                ",1,1,1,70 m²
+53,Juan Manuel Vallarta,"
+                    $21,000
+                    
+                ",2,2,1,120 m²
+54,Hacienda de las Lomas,"
+                    $26,000
+                    
+                ",2,2,2,145 m²
+55,Puerta del Valle,"
+                    $24,000
+                    
+                ",3,2,2,90 m²
+56,Zapopan,"
+                    $11,500
+                    
+                ",2,2,2,70 m²
+57,Zapopan,"
+                    $23,500
+                    
+                ",3,3,4+,200 m²
+58,Zapopan,"
+                    $28,000
+                    
+                ",2,2,2,135 m²
+59,Zapopan,"
+                    $24,500
+                    
+                ",2,2,2,120 m²
+60,Solares Residencial,"
+                    $21,500
+                    
+                ",3,3,2,160 m²
+61,Los Robles,"
+                    $16,000
+                    
+                ",3,2,2,116 m²
+62,Patria Universidad,"
+                    $25,000
+                    
+                ",2,2,2,
+63,Puerta del Valle,"
+                    $22,000
+                    
+                ",2,2,2,
+64,Royal Country,"
+                    $58,000
+                    
+                ",3,3,3,
+65,Puerta de Hierro,"
+                    $55,000
+                    
+                ",3,3,2,
+66,Camino Real,"
+                        $29,000
+                        
+                    ",3,3,2,
+67,Puerta de Hierro,"
+                    $40,900
+                    
+                ",2,2,2,
+68,Zoto Grande Residencial,"
+                    $87,500
+                    
+                ",3,4+,3,
+69,Real Vallarta,"
+                    $30,000
+                    
+                ",3,2,2,
+70,Colli Urbano,"
+                    $9,400
+                    
+                ",3,1,1,
+71,Foret,"
+                    $10,000
+                    
+                ",3,2,2,
+72,La Estancia,"
+                    $9,100
+                    
+                ",2,1,1,
+73,Arboledas,"
+                    $6,950
+                    
+                ",2,1,1,
+74,Puerta de Hierro,"
+                    $32,000
+                    
+                ",2,2,2,
+75,Royal Country,"
+                    $85,000
+                    
+                ",3,3,3,
+76,Tabachines,"
+                    $15,000
+                    
+                ",3,2,2,
+77,Puerta de Hierro,"
+                    $35,000
+                    
+                ",3,2,2,
+78,Patria Universidad,"
+                    $35,000
+                    
+                ",2,2,2,
+79,Granja,"
+                    $19,900
+                    
+                ",2,2,2,
+80,Nuevo México,"
+                    $13,000
+                    
+                ",3,2,2,
+81,Tabachines,"
+                    $15,000
+                    
+                ",3,2,2,
+82,Zapopan,"
+                    $11,000
+                    
+                ",2,3,2,
+83,Real Vallarta,"
+                    $30,000
+                    
+                ",3,2,,
+84,Jal.,"
+                    $4,500
+                    
+                ",2,1,,
+85,Zapopan,"
+                    $13,000
+                    
+                ",3,2,,
+86,Zapopan,"
+                    $35,000
+                    
+                ",3,3,,
+87,Arcos de Zapopan,"
+                    $6,800
+                    
+                ",2,1,,
