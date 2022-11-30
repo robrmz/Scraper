@@ -72,4 +72,4 @@ df['area'] = pd.Series(area)
 #explore results
 df.to_csv("rental_data.csv")
 print("terminado")
-#print(df)
+print(df)
